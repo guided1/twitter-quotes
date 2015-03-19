@@ -1,0 +1,3 @@
+circuit_bakery_twitter_quotes_homepage:
+    path:     /
+    defaults: { _controller: CircuitBakeryTwitterQuotesBundle:Default:index }

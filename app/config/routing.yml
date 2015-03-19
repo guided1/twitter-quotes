@@ -1,3 +1,7 @@
+circuit_bakery_twitter_quotes:
+    resource: "@CircuitBakeryTwitterQuotesBundle/Resources/config/routing.yml"
+    prefix:   /
+
 app:
     resource: @AppBundle/Controller/
     type:     annotation

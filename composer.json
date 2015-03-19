@@ -21,7 +21,8 @@
         "incenteev/composer-parameter-handler": "~2.0",
         "guzzlehttp/guzzle": "~5.2",
         "phpspec/phpspec": "~2.1",
-        "phpspec/nyan-formatters": "~1.0"
+        "phpspec/nyan-formatters": "~1.0",
+        "abraham/twitteroauth": "0.5.*"
     },
     "require-dev": {
         "sensio/generator-bundle": "~2.3"

@@ -1,0 +1,4 @@
+services:
+#    circuit_bakery_twitter_quotes.example:
+#        class: CircuitBakery\TwitterQuotesBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]
